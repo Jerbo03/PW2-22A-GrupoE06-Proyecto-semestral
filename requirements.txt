@@ -1,0 +1,7 @@
+Django~=4.0
+Pillow~=8.4
+django-crispy-forms
+djangorestframework
+markdown
+django-filter
+
